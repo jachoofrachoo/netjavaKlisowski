@@ -1,0 +1,108 @@
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/CoverletSourceRootsMapping
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/obj/Debug/net7.0/MSTest Project.csproj.AssemblyReference.cache
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/obj/Debug/net7.0/MSTest Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/obj/Debug/net7.0/MSTest Project.AssemblyInfoInputs.cache
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/obj/Debug/net7.0/MSTest Project.AssemblyInfo.cs
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/obj/Debug/net7.0/MSTest Project.csproj.CoreCompileInputs.cache
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/ConsoleApp1.deps.json
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/ConsoleApp1.runtimeconfig.json
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/ConsoleApp1
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/pl/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/Microsoft.TestPlatform.AdapterUtilities.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/MSTest Project.deps.json
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/MSTest Project.runtimeconfig.json
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/MSTest Project.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/MSTest Project.pdb
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/Microsoft.TestPlatform.Utilities.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/testhost.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/ConsoleApp1.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/ConsoleApp1.pdb
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/obj/Debug/net7.0/MSTest Project.csproj.CopyComplete
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/obj/Debug/net7.0/MSTest Project.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/obj/Debug/net7.0/refint/MSTest Project.dll
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/obj/Debug/net7.0/MSTest Project.pdb
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/obj/Debug/net7.0/MSTest Project.genruntimeconfig.cache
+/Users/janklisowski/Documents/netjava/netjavaKlisowski/ConsoleApp1/MSTest Project/obj/Debug/net7.0/ref/MSTest Project.dll

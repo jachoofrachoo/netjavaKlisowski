@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{FEA2BC93-E795-4BEE-BE06-C86BB9DE83DD}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsoleApp1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MSTest_220Project FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleApp1/Problem.cs">
+    <Files>
+      <File FileName="ConsoleApp1/Program.cs" />
+      <File FileName="ConsoleApp1/Item.cs" />
+      <File FileName="ConsoleApp1/Result.cs" />
+      <File FileName="ConsoleApp1/Problem.cs" Line="6" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleApp1" expanded="True">
+            <Node name="ConsoleApp1">
+              <Node name="Dependencies" expanded="True" selected="True" />
+              <Node name="MSTest Project" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
